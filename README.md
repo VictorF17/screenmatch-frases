@@ -1,3 +1,5 @@
-Desafio para criação de projeto Spring. 
-Tarefa: Criar um sort de frases marcantes de series com os posters, conectado a uma página front-end fornecida pelo curso.
-Front-end no repository https://github.com/VictorF17/java-desafio-front (clonado).
+Desafio para criação de um projeto Spring do curso da Alura: "Java: criando sua primeira API e conenctando ao front".
+
+Tarefa: Criar um gersador de frases aleatórias de series com os seus devidos posters, conectado a uma página front-end fornecida pela Alura.
+
+Pagina front-end: https://github.com/VictorF17/java-desafio-front (clonado).
